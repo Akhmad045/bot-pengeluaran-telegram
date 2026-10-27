@@ -1,0 +1,13 @@
+config.json
+data/
+*.db
+*.db-*
+*.bak
+__pycache__/
+*.pyc
+*.inspect.ndjson
+.git/
+backups/
+*.lock
+.snapshot-*
+.restore-*
